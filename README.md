@@ -1,2 +1,2 @@
-# Getting-Started.-Prime-Prework-Assignment
+# Getting-Started/preworkassignment
 Prime Prework Assignment
