@@ -1,2 +1,2 @@
-# Getting-Started/preworkassignment
+# getting-started
 Prime Prework Assignment
